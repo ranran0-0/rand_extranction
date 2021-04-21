@@ -1,0 +1,9 @@
+/.idea
+/data
+/origin-data
+/summary
+/model
+/__pycache__
+/nets
+/pretrained-checkpoint
+/private

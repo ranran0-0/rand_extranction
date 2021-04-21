@@ -1,0 +1,15 @@
+ModuleNotFoundError: No module named 'tensorflow.contrib'
+pip install tf_slim
+import tf_slim as slim
+
+ModuleNotFoundError: No module named 'imageio'
+pip install imageio
+
+AttributeError: module 'tensorflow' has no attribute 'app'
+import tensorflow.compat.v1 as tf
+
+31
+tf.app.flags.DEFINE_boolear
+-->   tf.app.flags.DEFINE_boolean
+
+新建文件夹：summary，model
