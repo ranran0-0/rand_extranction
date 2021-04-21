@@ -1,5 +1,0 @@
-RuntimeError: tf.placeholder() is not compatible with eager execution.
-tf.compat.v1.disable_eager_execution()
-
-路径：
-E:\Anaconda3\envs\DCENET\Lib\site-packages\tensorflow\models\research\slim
